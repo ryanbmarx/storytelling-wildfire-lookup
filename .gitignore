@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+public/bundle.*
+public/uw/
+public/embed.html
+public/iframe.html
+public/charts/
+public/risk_map.jpg
+package-lock.json
+yarn.lock
+_archive
+public/wildfires_lookup_meta_image.png
+updates.json
